@@ -1,0 +1,2 @@
+# UzairCodes
+My first repository
